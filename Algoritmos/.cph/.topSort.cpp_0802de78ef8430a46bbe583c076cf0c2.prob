@@ -1,0 +1,1 @@
+{"name":"Local: topSort","url":"/home/miguel/proyectos/Auxiliatura-Teoria-de-Grafos/Algoritmos/topSort.cpp","tests":[{"id":1778175467347,"input":"5 3\n1 2\n3 1\n4 5\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/miguel/proyectos/Auxiliatura-Teoria-de-Grafos/Algoritmos/topSort.cpp","group":"local","local":true}
